@@ -7,7 +7,7 @@
 
 - 🔭I’m interested to debug someone code. **I love to solve the errors.**
 
-- 🌱 I’m currently learning **javaScript, DSA, and HTML & CSS...**
+- 🌱 I’m currently learning **javaScript, DSA, and HTML & CSS, Mongodb, Express, Nodejs...**
 
 - 👯 I’m looking to collaborate on **Web Developement project...**
 
