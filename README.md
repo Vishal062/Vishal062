@@ -10,11 +10,11 @@ A JavaScript developer from Bihar,India. I love building applications & discussi
 <br/>
 - 🔭I’m interested to debug someone code. **I love to solve the errors.**
 
-- 🌱 I’m currently learning **javaScript, DSA, and HTML & CSS, Mongodb, Express, Nodejs...**
+- 🌱 I’m currently learning **MERN Stack, javaScript, Best data Structure & Algorithm and Nodejs...**
 
-- 👯 I’m looking to collaborate on **Web Developement project...**
+- 👯 I’m looking to collaborate on **Open source & Web Developement project...**
 
-- 💬 Ask me about **Errors**
+- 💬 Ask me about **Errors And Bruteforce technique**
 
 - 📫 reach me on email **vs9425348@gmail.com**
 
