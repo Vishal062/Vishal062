@@ -6,7 +6,8 @@
 
 ##           <h1 align="center">                   I'm VISHAL SINHA </h1>
 
-A JavaScript developer from Bihar,India. I love building applications & discussing new product ideas. Reach out to me anywhere if you'd like to talk ✌️
+A Full-stack Web developer from Bihar,India. I love building applications & discussing new product ideas. Reach out to me anywhere if you'd like to talk ✌️
+talk about # *React* # *Redux*, # *Nodejs*, # *Javascript*, # *Data Structure & algorithm* 
 <br/>
 - 🔭I’m interested to debug someone code. **I love to solve the errors.**
 
