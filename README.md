@@ -11,7 +11,7 @@ talk about # *React* # *Redux*, # *Nodejs*, # *Javascript*, # *Data Structure & 
 <br/>
 - 🔭I’m interested to debug someone code. **I love to solve the errors.**
 
-- 🌱 I’m currently learning **MERN Stack, javaScript, Best data Structure & Algorithm and Nodejs...**
+- 🌱 I’m currently working on projects based on  Pharmaceutical and Life Sciences.
 
 - 👯 I’m looking to collaborate on **Open source & Web Developement project...**
 
